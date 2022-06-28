@@ -5,7 +5,7 @@ CHANNEL_ACCESS_TOKEN = 'qYPezaCADzNanBgSjrscS7ibwcvr0OAU25C2Y3UMpD0EBS/J1Ryxyx1W
 CHANNEL_SECRET = 'b91052039f27f1940eaa87e2f8801e5a'
 
 #輸入HEROKU_APP_URL
-HEROKU_APP_URL = 'https://selenium-test-maso.herokuapp.com/'
+HEROKU_APP_URL = 'https://selenium-test-linebot.herokuapp.com/'
 
 #輸入自己的LINE ID
 USERID = 'U38d5f3af21733c27a2d701a9060f6323'
